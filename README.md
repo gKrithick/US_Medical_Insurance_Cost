@@ -1,4 +1,4 @@
-# US_medical_insurance_cost
+# US MEDICAL INSURANCE COST ANALYSIS
 
 A simple, naive portofolio project for analyzing US Medical Insurance Medical Costs.
 
